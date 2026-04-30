@@ -183,18 +183,6 @@ Base URL: `/api`. All protected routes require `Authorization: Bearer <token>` h
 
 ---
 
-## Demo video script (2–5 min)
-
-1. **0:00 – 0:20** — Open landing/login. Show the editorial design. Mention stack briefly.
-2. **0:20 – 0:50** — Sign in as **admin**. Walk through the dashboard stats and "my tasks" / overdue panels.
-3. **0:50 – 1:30** — Go to Projects. Create a new project. Add 2 members.
-4. **1:30 – 2:30** — Open the new project. Create 3 tasks with different priorities and assignees. Drag a task through statuses (using the cycle button). Show overdue styling.
-5. **2:30 – 3:30** — Sign out. Sign in as **member** (`alice@taskmanager.com`). Show that:
-   - Member doesn't see the "+ New project" button
-   - Member can only see projects they're part of
-   - Member can update status of tasks assigned to them, but not edit/delete others
-6. **3:30 – 4:00** — Show the live URLs (Railway + Vercel) in the browser address bar to prove deployment.
-
 ---
 
 ## License

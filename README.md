@@ -181,9 +181,7 @@ Base URL: `/api`. All protected routes require `Authorization: Bearer <token>` h
 |---|---|---|
 | GET | `/api/health` | Returns `{status: "ok"}` — used by Railway healthchecks |
 
----
 
----
 
 ## License
 
